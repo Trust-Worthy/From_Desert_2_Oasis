@@ -1,0 +1,1089 @@
+{
+    "search_metadata": {
+        "id": "675a467682b87ef68f49d655",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ef64675e75a70c4f/675a467682b87ef68f49d655.json",
+        "created_at": "2024-12-12 02:12:06 UTC",
+        "processed_at": "2024-12-12 02:12:06 UTC",
+        "google_maps_url": "https://www.google.com/maps/search/Grocery+Store?hl=en",
+        "raw_html_file": "https://serpapi.com/searches/ef64675e75a70c4f/675a467682b87ef68f49d655.html",
+        "total_time_taken": 1.04
+    },
+    "search_parameters": {
+        "engine": "google_maps",
+        "type": "search",
+        "q": "Grocery Store",
+        "google_domain": "google.com",
+        "hl": "en"
+    },
+    "search_information": {
+        "local_results_state": "Results for exact spelling",
+        "query_displayed": "Grocery Store"
+    },
+    "local_results": [
+        {
+            "position": 1,
+            "title": "Wegmans",
+            "place_id": "ChIJtQBwWPVbwokR9VDpbdSqQZQ",
+            "data_id": "0x89c25bf5587000b5:0x9441aad46de950f5",
+            "data_cid": "10683007620453322997",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25bf5587000b5%3A0x9441aad46de950f5&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25bf5587000b5%3A0x9441aad46de950f5&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.698879,
+                "longitude": -73.97934599999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJtQBwWPVbwokR9VDpbdSqQZQ",
+            "provider_id": "/g/11fnpznvyc",
+            "rating": 4.5,
+            "reviews": 3621,
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "American grocery store",
+                "Supermarket"
+            ],
+            "type_id": "grocery_store",
+            "type_ids": [
+                "grocery_store",
+                "american_grocery_store",
+                "supermarket"
+            ],
+            "address": "21 Flushing Ave, Brooklyn, NY 11205",
+            "open_state": "Open \u22c5 Closes 11\u202fPM",
+            "hours": "Open \u22c5 Closes 11\u202fPM",
+            "operating_hours": {
+                "wednesday": "7\u202fAM\u201311\u202fPM",
+                "thursday": "7\u202fAM\u201311\u202fPM",
+                "friday": "7\u202fAM\u201311\u202fPM",
+                "saturday": "7\u202fAM\u201311\u202fPM",
+                "sunday": "7\u202fAM\u201311\u202fPM",
+                "monday": "7\u202fAM\u201311\u202fPM",
+                "tuesday": "7\u202fAM\u201311\u202fPM"
+            },
+            "phone": "(347) 694-8510",
+            "website": "https://www.wegmans.com/stores/brooklyn-ny/?cid=GMB_Wegmans_2024:aw:ow:gb:gb:ao::",
+            "service_options": {
+                "curbside_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM3Omll8Kfq3dyn4JwAEhjDPnXrMNJcMg-Oq8Qh=w122-h92-k-no"
+        },
+        {
+            "position": 2,
+            "title": "Super Foodtown",
+            "place_id": "ChIJlxwyhIVbwokR9g81z_Ued-A",
+            "data_id": "0x89c25b8584321c97:0xe0771ef5cf350ff6",
+            "data_cid": "16174430627816607734",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25b8584321c97%3A0xe0771ef5cf350ff6&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25b8584321c97%3A0xe0771ef5cf350ff6&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.6797,
+                "longitude": -73.9444
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlxwyhIVbwokR9g81z_Ued-A",
+            "provider_id": "/g/1trxfm85",
+            "rating": 4.1,
+            "reviews": 3458,
+            "unclaimed_listing": true,
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Cheese shop",
+                "Florist",
+                "Seafood market",
+                "Supermarket"
+            ],
+            "type_id": "grocery_store",
+            "type_ids": [
+                "grocery_store",
+                "cheese_shop",
+                "florist",
+                "seafood_market",
+                "supermarket"
+            ],
+            "address": "1420 Fulton St, Brooklyn, NY 11216",
+            "open_state": "Open \u22c5 Closes 11\u202fPM",
+            "hours": "Open \u22c5 Closes 11\u202fPM",
+            "operating_hours": {
+                "wednesday": "7\u202fAM\u201311\u202fPM",
+                "thursday": "7\u202fAM\u201311\u202fPM",
+                "friday": "7\u202fAM\u201311\u202fPM",
+                "saturday": "7\u202fAM\u201311\u202fPM",
+                "sunday": "7\u202fAM\u201310\u202fPM",
+                "monday": "7\u202fAM\u201311\u202fPM",
+                "tuesday": "7\u202fAM\u201311\u202fPM"
+            },
+            "phone": "(718) 623-1808",
+            "website": "https://www.foodtown.com/stores/foodtown-of-bedford-stuyvesant-brooklyn",
+            "description": "Supermarket for groceries & more. Supermarket chain selling groceries, baked goods & frozen foods, plus health & beauty products.",
+            "service_options": {
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMz8TkvfwzWzJzZo_qz0JxNHHIBDWbE_5U8IXXo=w122-h92-k-no"
+        },
+        {
+            "position": 3,
+            "title": "Dumbo Market",
+            "place_id": "ChIJY74BA8lbwokR4BrWjkFJf0w",
+            "data_id": "0x89c25bc90301be63:0x4c7f49418ed61ae0",
+            "data_cid": "5512205014842874592",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25bc90301be63%3A0x4c7f49418ed61ae0&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25bc90301be63%3A0x4c7f49418ed61ae0&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.7024337,
+                "longitude": -73.9903113
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJY74BA8lbwokR4BrWjkFJf0w",
+            "provider_id": "/g/11fkw6s7st",
+            "rating": 4.3,
+            "reviews": 448,
+            "type": "Supermarket",
+            "types": [
+                "Supermarket"
+            ],
+            "type_id": "supermarket",
+            "type_ids": [
+                "supermarket"
+            ],
+            "address": "66 Front St, Brooklyn, NY 11201",
+            "open_state": "Open \u22c5 Closes 11\u202fPM",
+            "hours": "Open \u22c5 Closes 11\u202fPM",
+            "operating_hours": {
+                "wednesday": "7\u202fAM\u201311\u202fPM",
+                "thursday": "7\u202fAM\u201311\u202fPM",
+                "friday": "7\u202fAM\u201311\u202fPM",
+                "saturday": "7\u202fAM\u201311\u202fPM",
+                "sunday": "7\u202fAM\u201311\u202fPM",
+                "monday": "7\u202fAM\u201311\u202fPM",
+                "tuesday": "7\u202fAM\u201311\u202fPM"
+            },
+            "phone": "(718) 422-7550",
+            "website": "https://www.instagram.com/dumbo_market/",
+            "service_options": {
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOvDiNfX7-kxfDAFPBh_F34dFJsFhhDb2IkodLG=w122-h92-k-no"
+        },
+        {
+            "position": 4,
+            "title": "Concord Market",
+            "place_id": "ChIJc7ATdUpawokRkTIux4DskVc",
+            "data_id": "0x89c25a4a7513b073:0x5791ec80c72e3291",
+            "data_cid": "6310084590764438161",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25a4a7513b073%3A0x5791ec80c72e3291&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25a4a7513b073%3A0x5791ec80c72e3291&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.6965516,
+                "longitude": -73.9873513
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJc7ATdUpawokRkTIux4DskVc",
+            "provider_id": "/g/1tl8lmrb",
+            "rating": 3.8,
+            "reviews": 326,
+            "price": "$",
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Beer store",
+                "Convenience store",
+                "Delivery service",
+                "Supermarket"
+            ],
+            "type_id": "grocery_store",
+            "type_ids": [
+                "grocery_store",
+                "beer_store",
+                "convenience_store",
+                "delivery_service",
+                "supermarket"
+            ],
+            "address": "91 Tillary St, Brooklyn, NY 11201",
+            "open_state": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 7\u202fAM Thu",
+            "hours": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 7\u202fAM Thu",
+            "operating_hours": {
+                "wednesday": "7\u202fAM\u201310\u202fPM",
+                "thursday": "7\u202fAM\u201310\u202fPM",
+                "friday": "7\u202fAM\u201310\u202fPM",
+                "saturday": "8\u202fAM\u201310\u202fPM",
+                "sunday": "8\u202fAM\u201310\u202fPM",
+                "monday": "7\u202fAM\u201310\u202fPM",
+                "tuesday": "7\u202fAM\u201310\u202fPM"
+            },
+            "phone": "(718) 522-1930",
+            "website": "http://www.concordmarket.com/",
+            "description": "Gourmet grocer known for prepared foods. Supermarket & deli stocking gourmet & specialty groceries plus a large section for prepared foods.",
+            "service_options": {
+                "in_store_shopping": true,
+                "curbside_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPPcWmCao5Ywvm_f1MvkUNC3gUx-Fk2wf_ywFkJ=w122-h92-k-no"
+        },
+        {
+            "position": 5,
+            "title": "Key Food Urban Marketplace",
+            "place_id": "ChIJA6sY7IJZwokRxp8qLVci8JA",
+            "data_id": "0x89c25982ec18ab03:0x90f022572d2a9fc6",
+            "data_cid": "10443885293687447494",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25982ec18ab03%3A0x90f022572d2a9fc6&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25982ec18ab03%3A0x90f022572d2a9fc6&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.7240032,
+                "longitude": -73.984763
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJA6sY7IJZwokRxp8qLVci8JA",
+            "provider_id": "/g/1tc_9lgw",
+            "rating": 4.2,
+            "reviews": 1158,
+            "type": "Supermarket",
+            "types": [
+                "Supermarket",
+                "Butcher shop",
+                "Deli",
+                "Flower market",
+                "Grocery delivery service",
+                "Grocery store"
+            ],
+            "type_id": "supermarket",
+            "type_ids": [
+                "supermarket",
+                "butcher_shop",
+                "deli",
+                "flower_market",
+                "grocery_delivery_service",
+                "grocery_store"
+            ],
+            "address": "52 Avenue A, New York, NY 10009",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours"
+            },
+            "phone": "(212) 477-9063",
+            "website": "https://keyfoodstores.keyfood.com/store/keyFood/en/store/566",
+            "description": "Supermarket for groceries & home goods. Chain offering groceries & household goods, such as cleaning supplies & beauty products.",
+            "service_options": {
+                "in_store_shopping": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPadgfiG-UcCt3wjKDaeA6JXDoclRJvZCD0DUzb=w124-h92-k-no"
+        },
+        {
+            "position": 6,
+            "title": "Peas & Pickles",
+            "place_id": "ChIJZaiaZzFawokReXz6BSpjDCs",
+            "data_id": "0x89c25a31679aa865:0x2b0c632a05fa7c79",
+            "data_cid": "3101963275491507321",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25a31679aa865%3A0x2b0c632a05fa7c79&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25a31679aa865%3A0x2b0c632a05fa7c79&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.7026341,
+                "longitude": -73.9894357
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZaiaZzFawokReXz6BSpjDCs",
+            "provider_id": "/g/1tl9nh5d",
+            "rating": 3.8,
+            "reviews": 390,
+            "unclaimed_listing": true,
+            "type": "Supermarket",
+            "types": [
+                "Supermarket"
+            ],
+            "type_id": "supermarket",
+            "type_ids": [
+                "supermarket"
+            ],
+            "address": "55 Washington St, Brooklyn, NY 11201",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours"
+            },
+            "phone": "(718) 488-8336",
+            "description": "Upmarket 24/7 deli & convenience store. Round-the-clock deli & mini-grocer with a wide selection of foods to go, from subs & soups to sushi.",
+            "service_options": {
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipODFsdyaNywdMvPMeDzYR5eHFLZM7swNWu8nTlE=w122-h92-k-no"
+        },
+        {
+            "position": 7,
+            "title": "Jubilee Market Place on John",
+            "place_id": "ChIJ_2plXD1awokRGHC_fgD3uWE",
+            "data_id": "0x89c25a3d5c656aff:0x61b9f7007ebf7018",
+            "data_cid": "7041931073869017112",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25a3d5c656aff%3A0x61b9f7007ebf7018&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25a3d5c656aff%3A0x61b9f7007ebf7018&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.7082431,
+                "longitude": -74.0063359
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_2plXD1awokRGHC_fgD3uWE",
+            "provider_id": "/g/1tp8_zf0",
+            "rating": 4.2,
+            "reviews": 995,
+            "price": "$",
+            "type": "Supermarket",
+            "types": [
+                "Supermarket",
+                "Food court",
+                "Gourmet grocery store",
+                "Grocery store"
+            ],
+            "type_id": "supermarket",
+            "type_ids": [
+                "supermarket",
+                "food_court",
+                "gourmet_grocery_store",
+                "grocery_store"
+            ],
+            "address": "99 John St, New York, NY 10038",
+            "open_state": "Open \u22c5 Closes 2\u202fAM",
+            "hours": "Open \u22c5 Closes 2\u202fAM",
+            "operating_hours": {
+                "wednesday": "5\u202fAM\u20132\u202fAM",
+                "thursday": "5\u202fAM\u20132\u202fAM",
+                "friday": "5\u202fAM\u20132\u202fAM",
+                "saturday": "5\u202fAM\u20132\u202fAM",
+                "sunday": "5\u202fAM\u20132\u202fAM",
+                "monday": "5\u202fAM\u20132\u202fAM",
+                "tuesday": "5\u202fAM\u20132\u202fAM"
+            },
+            "phone": "(212) 233-0808",
+            "website": "https://www.jubileeonjohn.com/",
+            "description": "Full-service gourmet grocery market. Specialty food market featuring meats, produce & cheeses, including organic fare.",
+            "service_options": {
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMaCw_e-CI8GYcf_oN7ljvjtABpgYVN_j83X3RQ=w163-h92-k-no"
+        },
+        {
+            "position": 8,
+            "title": "Stop & Shop",
+            "place_id": "ChIJR_hhk_BawokRN4V0ft2szFs",
+            "data_id": "0x89c25af09361f847:0x5bccacdd7e748537",
+            "data_cid": "6614852020009731383",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25af09361f847%3A0x5bccacdd7e748537&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25af09361f847%3A0x5bccacdd7e748537&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.683923899999996,
+                "longitude": -73.9757383
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR_hhk_BawokRN4V0ft2szFs",
+            "provider_id": "/g/11bwkfz2bj",
+            "rating": 4.1,
+            "reviews": 2714,
+            "price": "$$",
+            "type": "Grocery store",
+            "types": [
+                "Grocery store"
+            ],
+            "type_id": "grocery_store",
+            "type_ids": [
+                "grocery_store"
+            ],
+            "address": "625 Atlantic Ave, Brooklyn, NY 11217",
+            "open_state": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 7\u202fAM Thu",
+            "hours": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 7\u202fAM Thu",
+            "operating_hours": {
+                "wednesday": "7\u202fAM\u201310\u202fPM",
+                "thursday": "7\u202fAM\u201310\u202fPM",
+                "friday": "7\u202fAM\u201310\u202fPM",
+                "saturday": "7\u202fAM\u201310\u202fPM",
+                "sunday": "7\u202fAM\u20139\u202fPM",
+                "monday": "7\u202fAM\u201310\u202fPM",
+                "tuesday": "7\u202fAM\u201310\u202fPM"
+            },
+            "phone": "(718) 399-6161",
+            "website": "https://stores.stopandshop.com/ny/brooklyn/625-atlantic-ave?y_source=1_NDE5NTc1Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "description": "Supermarket for groceries & more. Supermarket chain with house-brand groceries & organics, including deli & bakery counters.",
+            "service_options": {
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM7q1ZV3AQI8HmqDx38NGsC571oiIT8sqc-20df=w122-h92-k-no"
+        },
+        {
+            "position": 9,
+            "title": "City Acres Market",
+            "place_id": "ChIJd0SndOZbwokR5KltaCBjOcU",
+            "data_id": "0x89c25be674a74477:0xc5396320686da9e4",
+            "data_cid": "14211499089986431460",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25be674a74477%3A0xc5396320686da9e4&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25be674a74477%3A0xc5396320686da9e4&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.706347,
+                "longitude": -74.0073462
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJd0SndOZbwokR5KltaCBjOcU",
+            "provider_id": "/g/11h4cq82bc",
+            "rating": 4.3,
+            "reviews": 704,
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Butcher shop deli",
+                "Cheese shop",
+                "Deli",
+                "Fish store"
+            ],
+            "type_id": "grocery_store",
+            "type_ids": [
+                "grocery_store",
+                "butcher_shop_deli",
+                "cheese_shop",
+                "deli",
+                "fish_store"
+            ],
+            "address": "70 Pine St, New York, NY 10270",
+            "open_state": "Open \u22c5 Closes 11\u202fPM",
+            "hours": "Open \u22c5 Closes 11\u202fPM",
+            "operating_hours": {
+                "wednesday": "7\u202fAM\u201311\u202fPM",
+                "thursday": "7\u202fAM\u201311\u202fPM",
+                "friday": "7\u202fAM\u201311\u202fPM",
+                "saturday": "7\u202fAM\u201311\u202fPM",
+                "sunday": "7\u202fAM\u201311\u202fPM",
+                "monday": "7\u202fAM\u201311\u202fPM",
+                "tuesday": "7\u202fAM\u201311\u202fPM"
+            },
+            "phone": "(917) 261-4530",
+            "website": "http://cityacresmarket.com/locations/",
+            "service_options": {
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOfyLU1kG0KmZuNn8MUYBShyM0pHLYXTY8Ens5Z=w122-h92-k-no"
+        },
+        {
+            "position": 10,
+            "title": "Foodtown of Williamsburg",
+            "place_id": "ChIJmRhammBZwokRqJpBz1rziLY",
+            "data_id": "0x89c259609a5a1899:0xb688f35acf419aa8",
+            "data_cid": "13153030283085322920",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c259609a5a1899%3A0xb688f35acf419aa8&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c259609a5a1899%3A0xb688f35acf419aa8&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.715326999999995,
+                "longitude": -73.959566
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmRhammBZwokRqJpBz1rziLY",
+            "provider_id": "/g/1wf39jjt",
+            "rating": 4.2,
+            "reviews": 655,
+            "unclaimed_listing": true,
+            "type": "Supermarket",
+            "types": [
+                "Supermarket",
+                "Dairy store",
+                "Flower market",
+                "Fresh food market",
+                "Organic food store"
+            ],
+            "type_id": "supermarket",
+            "type_ids": [
+                "supermarket",
+                "dairy_store",
+                "flower_market",
+                "fresh_food_market",
+                "organic_food_store"
+            ],
+            "address": "159 N 3rd St, Brooklyn, NY 11211",
+            "open_state": "Open \u22c5 Closes 12\u202fAM",
+            "hours": "Open \u22c5 Closes 12\u202fAM",
+            "operating_hours": {
+                "wednesday": "7\u202fAM\u201312\u202fAM",
+                "thursday": "7\u202fAM\u201312\u202fAM",
+                "friday": "7\u202fAM\u201312\u202fAM",
+                "saturday": "7\u202fAM\u201312\u202fAM",
+                "sunday": "7\u202fAM\u201312\u202fAM",
+                "monday": "7\u202fAM\u201312\u202fAM",
+                "tuesday": "7\u202fAM\u201312\u202fAM"
+            },
+            "phone": "(718) 302-5534",
+            "website": "https://www.foodtown.com/stores/foodtown-of-williamsburg-brooklyn?utm_source=googlemybusiness&utm_medium=vicinity&utm_campaign=websiteclick",
+            "description": "Supermarket for groceries & more. Supermarket chain selling groceries, baked goods & frozen foods, plus health & beauty products.",
+            "service_options": {
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "user_review": "\"Lovely grocery store with a lot of unique and well priced items.\"",
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPTSZCOqA2Hbg2AA0aH19yFNMsUYj-ACXcFovKy=w122-h92-k-no"
+        },
+        {
+            "position": 11,
+            "title": "FOOD BAZAAR",
+            "place_id": "ChIJX8DHbY9awokR6Fph5fQATlU",
+            "data_id": "0x89c25a8f6dc7c05f:0x554e00f4e5615ae8",
+            "data_cid": "6146851593227688680",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25a8f6dc7c05f%3A0x554e00f4e5615ae8&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25a8f6dc7c05f%3A0x554e00f4e5615ae8&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.674217399999996,
+                "longitude": -74.01702159999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJX8DHbY9awokR6Fph5fQATlU",
+            "provider_id": "/g/1tplr79k",
+            "rating": 4.4,
+            "reviews": 3026,
+            "price": "$$",
+            "type": "Supermarket",
+            "types": [
+                "Supermarket",
+                "Asian grocery store",
+                "Filipino grocery store",
+                "Grocery store",
+                "Indian grocery store",
+                "Italian grocery store",
+                "Japanese grocery store",
+                "Korean grocery store",
+                "Kosher grocery store",
+                "Mexican grocery store"
+            ],
+            "type_id": "supermarket",
+            "type_ids": [
+                "supermarket",
+                "asian_grocery_store",
+                "filipino_grocery_store",
+                "grocery_store",
+                "indian_grocery_store",
+                "italian_grocery_store",
+                "japanese_grocery_store",
+                "korean_grocery_store",
+                "kosher_grocery_store",
+                "mexican_grocery_store"
+            ],
+            "address": "480-500 Van Brunt St, Brooklyn, NY 11231",
+            "open_state": "Open \u22c5 Closes 10:30\u202fPM",
+            "hours": "Open \u22c5 Closes 10:30\u202fPM",
+            "operating_hours": {
+                "wednesday": "7\u202fAM\u201310:30\u202fPM",
+                "thursday": "7\u202fAM\u201310:30\u202fPM",
+                "friday": "7\u202fAM\u201310:30\u202fPM",
+                "saturday": "7\u202fAM\u201310:30\u202fPM",
+                "sunday": "7\u202fAM\u201310:30\u202fPM",
+                "monday": "7\u202fAM\u201310:30\u202fPM",
+                "tuesday": "7\u202fAM\u201310:30\u202fPM"
+            },
+            "phone": "(718) 254-0923",
+            "website": "https://www.foodbazaar.com/find-your-store/",
+            "description": "Supermarket with an international focus. Supermarket chain offering traditional groceries & produce, along with international items.",
+            "service_options": {
+                "in_store_shopping": true,
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMjYK7MBs1-Pla-TLRmNKKmufdMT1adGNJbChWp=w92-h92-k-no"
+        },
+        {
+            "position": 12,
+            "title": "Whole Foods Market",
+            "place_id": "ChIJNewOPrJbwokRkAD8HyPvtdc",
+            "data_id": "0x89c25bb23e0eec35:0xd7b5ef231ffc0090",
+            "data_cid": "15543592623078637712",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25bb23e0eec35%3A0xd7b5ef231ffc0090&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25bb23e0eec35%3A0xd7b5ef231ffc0090&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.686213699999996,
+                "longitude": -73.97872269999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNewOPrJbwokRkAD8HyPvtdc",
+            "provider_id": "/g/11g4bm6j7w",
+            "rating": 4.1,
+            "reviews": 2314,
+            "price": "$$$",
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Cheese shop",
+                "Fresh food market",
+                "Greengrocer",
+                "Health food store",
+                "Natural goods store",
+                "Organic food store",
+                "Produce market",
+                "Supermarket",
+                "Wine store"
+            ],
+            "type_id": "grocery_store",
+            "type_ids": [
+                "grocery_store",
+                "cheese_shop",
+                "fresh_food_market",
+                "green_grocers",
+                "health_food_store",
+                "natural_foods_store",
+                "organic_food_store",
+                "produce_market",
+                "supermarket",
+                "wine_store"
+            ],
+            "address": "292 Ashland Pl, Brooklyn, NY 11217",
+            "open_state": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 8\u202fAM Thu",
+            "hours": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 8\u202fAM Thu",
+            "operating_hours": {
+                "wednesday": "8\u202fAM\u201310\u202fPM",
+                "thursday": "8\u202fAM\u201310\u202fPM",
+                "friday": "8\u202fAM\u201310\u202fPM",
+                "saturday": "8\u202fAM\u201310\u202fPM",
+                "sunday": "8\u202fAM\u201310\u202fPM",
+                "monday": "8\u202fAM\u201310\u202fPM",
+                "tuesday": "8\u202fAM\u201310\u202fPM"
+            },
+            "phone": "(718) 290-1010",
+            "website": "https://www.wholefoodsmarket.com/stores/fortgreene?utm_source=google&utm_medium=organic&utm_campaign=listings",
+            "description": "Mainstay for natural & organic food. Eco-minded chain with natural & organic grocery items, housewares & other products (most sell wine).",
+            "service_options": {
+                "curbside_pickup": true,
+                "delivery": true,
+                "dine_in": false
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPkAowiIqHjXfz7swOqn4ZLuYBXN0FwUJYzIWQq=w122-h92-k-no"
+        },
+        {
+            "position": 13,
+            "title": "Key Food Urban Marketplace",
+            "place_id": "ChIJiRDDLwdbwokRJS0Ur3l4nfw",
+            "data_id": "0x89c25b072fc31089:0xfc9d7879af142d25",
+            "data_cid": "18202837732925123877",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25b072fc31089%3A0xfc9d7879af142d25&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25b072fc31089%3A0xfc9d7879af142d25&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.6731003,
+                "longitude": -73.9767893
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiRDDLwdbwokRJS0Ur3l4nfw",
+            "provider_id": "/g/1tdk62r8",
+            "rating": 4,
+            "reviews": 583,
+            "type": "Supermarket",
+            "types": [
+                "Supermarket",
+                "Butcher shop",
+                "Deli",
+                "Flower market",
+                "Grocery delivery service",
+                "Grocery store"
+            ],
+            "type_id": "supermarket",
+            "type_ids": [
+                "supermarket",
+                "butcher_shop",
+                "deli",
+                "flower_market",
+                "grocery_delivery_service",
+                "grocery_store"
+            ],
+            "address": "130 7th Ave, Brooklyn, NY 11215",
+            "open_state": "Open \u22c5 Closes 11\u202fPM",
+            "hours": "Open \u22c5 Closes 11\u202fPM",
+            "operating_hours": {
+                "wednesday": "6:30\u202fAM\u201311\u202fPM",
+                "thursday": "6:30\u202fAM\u201311\u202fPM",
+                "friday": "6:30\u202fAM\u201311\u202fPM",
+                "saturday": "6:30\u202fAM\u201311\u202fPM",
+                "sunday": "8\u202fAM\u201310\u202fPM",
+                "monday": "6:30\u202fAM\u201311\u202fPM",
+                "tuesday": "6:30\u202fAM\u201311\u202fPM"
+            },
+            "phone": "(718) 768-8317",
+            "website": "https://keyfoodstores.keyfood.com/store/keyFood/en/store/890",
+            "description": "Supermarket for groceries & home goods. Chain offering groceries & household goods, such as cleaning supplies & beauty products.",
+            "service_options": {
+                "in_store_shopping": true,
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP458f3gchDNx7r3KUjzD_JsYXjggV7qfjXmgOt=w189-h92-k-no"
+        },
+        {
+            "position": 14,
+            "title": "MORTON WILLIAMS SUPERMARKETS",
+            "place_id": "ChIJucv6UgpZwokRc_1ic0idaSw",
+            "data_id": "0x89c2590a52facbb9:0x2c699d487362fd73",
+            "data_cid": "3200261944722521459",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2590a52facbb9%3A0x2c699d487362fd73&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c2590a52facbb9%3A0x2c699d487362fd73&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.7378369,
+                "longitude": -73.9801146
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJucv6UgpZwokRc_1ic0idaSw",
+            "provider_id": "/g/1tczr875",
+            "rating": 3.8,
+            "reviews": 479,
+            "type": "Supermarket",
+            "types": [
+                "Supermarket",
+                "Grocery store"
+            ],
+            "type_id": "supermarket",
+            "type_ids": [
+                "supermarket",
+                "grocery_store"
+            ],
+            "address": "313 E 23rd St, New York, NY 10010",
+            "open_state": "Open \u22c5 Closes 1\u202fAM",
+            "hours": "Open \u22c5 Closes 1\u202fAM",
+            "operating_hours": {
+                "wednesday": "7\u202fAM\u20131\u202fAM",
+                "thursday": "7\u202fAM\u20131\u202fAM",
+                "friday": "7\u202fAM\u20131\u202fAM",
+                "saturday": "7\u202fAM\u20131\u202fAM",
+                "sunday": "7\u202fAM\u20131\u202fAM",
+                "monday": "7\u202fAM\u20131\u202fAM",
+                "tuesday": "7\u202fAM\u20131\u202fAM"
+            },
+            "phone": "(212) 689-6192",
+            "website": "https://www.mortonwilliams.com/our-locations",
+            "description": "Neighborhood supermarket standby. Supermarket chain stocking meats, seafood & baked goods along with name-brand dry goods.",
+            "service_options": {
+                "in_store_shopping": true,
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPkWAXOK1j_8ICsJ0GAjSckFdr-qGW-_RL9jw3R=w163-h92-k-no"
+        },
+        {
+            "position": 15,
+            "title": "Gristedes",
+            "place_id": "ChIJ0-tO2jdawokRIYNjSYXAgbk",
+            "data_id": "0x89c25a37da4eebd3:0xb981c08549638321",
+            "data_cid": "13367176847706784545",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25a37da4eebd3%3A0xb981c08549638321&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25a37da4eebd3%3A0xb981c08549638321&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.6978849,
+                "longitude": -73.9926259
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ0-tO2jdawokRIYNjSYXAgbk",
+            "provider_id": "/g/1v3kn_0h",
+            "rating": 3.1,
+            "reviews": 221,
+            "unclaimed_listing": true,
+            "type": "Supermarket",
+            "types": [
+                "Supermarket",
+                "Grocery store"
+            ],
+            "type_id": "supermarket",
+            "type_ids": [
+                "supermarket",
+                "grocery_store"
+            ],
+            "address": "101 Clark St, Brooklyn, NY 11201",
+            "open_state": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 7\u202fAM Thu",
+            "hours": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 7\u202fAM Thu",
+            "operating_hours": {
+                "wednesday": "7\u202fAM\u201310\u202fPM",
+                "thursday": "7\u202fAM\u201310\u202fPM",
+                "friday": "7\u202fAM\u201310\u202fPM",
+                "saturday": "7\u202fAM\u201310\u202fPM",
+                "sunday": "7\u202fAM\u201310\u202fPM",
+                "monday": "7\u202fAM\u201310\u202fPM",
+                "tuesday": "7\u202fAM\u201310\u202fPM"
+            },
+            "phone": "(718) 855-0132",
+            "website": "http://www.gristedessupermarkets.com/",
+            "description": "Local supermarket for groceries & dairy. Supermarket stocking meats, seafood, produce, dairy & baked goods, plus deli items.",
+            "service_options": {
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNx1Zfis_j179Exng66cCNO7ONXMeAZSzSi2X6j=w163-h92-k-no"
+        },
+        {
+            "position": 16,
+            "title": "Wholesome Farms Market",
+            "place_id": "ChIJYbW5MB9bwokRqrKSuC-dOj4",
+            "data_id": "0x89c25b1f30b9b561:0x3e3a9d2fb892b2aa",
+            "data_cid": "4484069207286395562",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25b1f30b9b561%3A0x3e3a9d2fb892b2aa&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25b1f30b9b561%3A0x3e3a9d2fb892b2aa&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.7016029,
+                "longitude": -73.9868947
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJYbW5MB9bwokRqrKSuC-dOj4",
+            "provider_id": "/g/11h398z174",
+            "rating": 4.1,
+            "reviews": 192,
+            "price": "$",
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Cafe",
+                "Deli",
+                "Delivery Restaurant",
+                "Takeout Restaurant",
+                "Restaurant"
+            ],
+            "type_id": "grocery_store",
+            "type_ids": [
+                "grocery_store",
+                "cafe",
+                "deli",
+                "meal_delivery",
+                "meal_takeaway",
+                "restaurant"
+            ],
+            "address": "108 Jay St, Brooklyn, NY 11201",
+            "open_state": "Open \u22c5 Closes 12\u202fAM",
+            "hours": "Open \u22c5 Closes 12\u202fAM",
+            "operating_hours": {
+                "wednesday": "6\u202fAM\u201312\u202fAM",
+                "thursday": "6\u202fAM\u201312\u202fAM",
+                "friday": "6\u202fAM\u201312\u202fAM",
+                "saturday": "6\u202fAM\u201312\u202fAM",
+                "sunday": "7\u202fAM\u201312\u202fAM",
+                "monday": "6\u202fAM\u201312\u202fAM",
+                "tuesday": "6\u202fAM\u201312\u202fAM"
+            },
+            "phone": "(917) 909-1537",
+            "service_options": {
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO872e_mnXrVcP2f5qvf-7bHGJH2yQKxTI8JmFT=w80-h106-k-no"
+        },
+        {
+            "position": 17,
+            "title": "Whole Foods Market",
+            "place_id": "ChIJCyuFM_9awokR-UCjM7JdJe0",
+            "data_id": "0x89c25aff33852b0b:0xed255db233a340f9",
+            "data_cid": "17088167381079113977",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25aff33852b0b%3A0xed255db233a340f9&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25aff33852b0b%3A0xed255db233a340f9&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.674892799999995,
+                "longitude": -73.98878789999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJCyuFM_9awokR-UCjM7JdJe0",
+            "provider_id": "/g/1ptwgzs23",
+            "rating": 4.4,
+            "reviews": 4288,
+            "price": "$$$",
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Cheese shop",
+                "Fresh food market",
+                "Greengrocer",
+                "Health food store",
+                "Natural goods store",
+                "Organic food store",
+                "Produce market",
+                "Supermarket",
+                "Wine store"
+            ],
+            "type_id": "grocery_store",
+            "type_ids": [
+                "grocery_store",
+                "cheese_shop",
+                "fresh_food_market",
+                "green_grocers",
+                "health_food_store",
+                "natural_foods_store",
+                "organic_food_store",
+                "produce_market",
+                "supermarket",
+                "wine_store"
+            ],
+            "address": "214 3rd St., Brooklyn, NY 11215",
+            "open_state": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 8\u202fAM Thu",
+            "hours": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 8\u202fAM Thu",
+            "operating_hours": {
+                "wednesday": "8\u202fAM\u201310\u202fPM",
+                "thursday": "8\u202fAM\u201310\u202fPM",
+                "friday": "8\u202fAM\u201310\u202fPM",
+                "saturday": "8\u202fAM\u201310\u202fPM",
+                "sunday": "8\u202fAM\u201310\u202fPM",
+                "monday": "8\u202fAM\u201310\u202fPM",
+                "tuesday": "8\u202fAM\u201310\u202fPM"
+            },
+            "phone": "(718) 907-3622",
+            "website": "https://www.wholefoodsmarket.com/stores/thirdand3rd?utm_source=google&utm_medium=organic&utm_campaign=listings",
+            "description": "Mainstay for natural & organic food. Eco-minded chain with natural & organic grocery items, housewares & other products (most sell wine).",
+            "service_options": {
+                "in_store_shopping": true,
+                "curbside_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMv-MVVGOu2p7uee9ewuXqxkI0aX8RtCRAr-cMp=w163-h92-k-no"
+        },
+        {
+            "position": 18,
+            "title": "Westside Market NYC",
+            "place_id": "ChIJ3xZbsp5ZwokRRvzkWV-pP1U",
+            "data_id": "0x89c2599eb25b16df:0x553fa95f59e4fc46",
+            "data_cid": "6142814643751812166",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c2599eb25b16df%3A0x553fa95f59e4fc46&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c2599eb25b16df%3A0x553fa95f59e4fc46&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.7318431,
+                "longitude": -73.98865459999999
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3xZbsp5ZwokRRvzkWV-pP1U",
+            "provider_id": "/g/11b6dl2j9j",
+            "rating": 4.4,
+            "reviews": 872,
+            "price": "$$",
+            "type": "Gourmet grocery store",
+            "types": [
+                "Gourmet grocery store"
+            ],
+            "type_id": "gourmet_grocery_store",
+            "type_ids": [
+                "gourmet_grocery_store"
+            ],
+            "address": "84 3rd Ave, New York, NY 10003",
+            "open_state": "Open 24 hours",
+            "hours": "Open 24 hours",
+            "operating_hours": {
+                "wednesday": "Open 24 hours",
+                "thursday": "Open 24 hours",
+                "friday": "Open 24 hours",
+                "saturday": "Open 24 hours",
+                "sunday": "Open 24 hours",
+                "monday": "Open 24 hours",
+                "tuesday": "Open 24 hours"
+            },
+            "phone": "(212) 253-8400",
+            "website": "https://www.wmarketnyc.com/locations/84-third-avenue/",
+            "description": "Smart, relaxed grocery store & deli. Sharp market with an informal feel stocking meat & produce, plus gourmet & prepared foods.",
+            "service_options": {
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN20-5r7g6ylHdRIIdZbirU1a4yVan9A2a17Tee=w122-h92-k-no"
+        },
+        {
+            "position": 19,
+            "title": "Brooklyn Harvest Market Union Ave",
+            "place_id": "ChIJx8xkeeNbwokRiK5NoiYIqmQ",
+            "data_id": "0x89c25be37964ccc7:0x64aa0826a24dae88",
+            "data_cid": "7253619111858384520",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25be37964ccc7%3A0x64aa0826a24dae88&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25be37964ccc7%3A0x64aa0826a24dae88&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.7064692,
+                "longitude": -73.9501705
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx8xkeeNbwokRiK5NoiYIqmQ",
+            "provider_id": "/g/11b5zzkx10",
+            "rating": 4.2,
+            "reviews": 375,
+            "type": "Grocery store",
+            "types": [
+                "Grocery store"
+            ],
+            "type_id": "grocery_store",
+            "type_ids": [
+                "grocery_store"
+            ],
+            "address": "204 Union Ave, Brooklyn, NY 11211",
+            "open_state": "Open \u22c5 Closes 12\u202fAM",
+            "hours": "Open \u22c5 Closes 12\u202fAM",
+            "operating_hours": {
+                "wednesday": "7\u202fAM\u201312\u202fAM",
+                "thursday": "7\u202fAM\u201312\u202fAM",
+                "friday": "7\u202fAM\u201312\u202fAM",
+                "saturday": "7\u202fAM\u201312\u202fAM",
+                "sunday": "7\u202fAM\u201312\u202fAM",
+                "monday": "7\u202fAM\u201312\u202fAM",
+                "tuesday": "7\u202fAM\u201312\u202fAM"
+            },
+            "phone": "(718) 486-3300",
+            "website": "https://www.brooklynharvestmarkets.com/",
+            "description": "Grocery store with local products. Supermarket with full-service butcher & seafood counters, produce & made-in-Brooklyn provisions.",
+            "service_options": {
+                "in_store_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM7csI9XpJJ26VHkyDkzocKCIYZ4T3YR9zAxV3Q=w163-h92-k-no"
+        },
+        {
+            "position": 20,
+            "title": "Whole Foods Market",
+            "place_id": "ChIJRyyQoGBZwokR2ISrdKgCsdo",
+            "data_id": "0x89c25960a0902c47:0xdab102a874ab84d8",
+            "data_cid": "15758379493681235160",
+            "reviews_link": "https://serpapi.com/search.json?data_id=0x89c25960a0902c47%3A0xdab102a874ab84d8&engine=google_maps_reviews&hl=en",
+            "photos_link": "https://serpapi.com/search.json?data_id=0x89c25960a0902c47%3A0xdab102a874ab84d8&engine=google_maps_photos&hl=en",
+            "gps_coordinates": {
+                "latitude": 40.7161409,
+                "longitude": -73.9597096
+            },
+            "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJRyyQoGBZwokR2ISrdKgCsdo",
+            "provider_id": "/g/11c0rlxb1k",
+            "rating": 4.3,
+            "reviews": 2859,
+            "price": "$",
+            "type": "Grocery store",
+            "types": [
+                "Grocery store",
+                "Cheese shop",
+                "Fresh food market",
+                "Greengrocer",
+                "Health food store",
+                "Natural goods store",
+                "Organic food store",
+                "Produce market",
+                "Supermarket",
+                "Wine store"
+            ],
+            "type_id": "grocery_store",
+            "type_ids": [
+                "grocery_store",
+                "cheese_shop",
+                "fresh_food_market",
+                "green_grocers",
+                "health_food_store",
+                "natural_foods_store",
+                "organic_food_store",
+                "produce_market",
+                "supermarket",
+                "wine_store"
+            ],
+            "address": "238 Bedford Ave, Brooklyn, NY 11249",
+            "open_state": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 8\u202fAM Thu",
+            "hours": "Closes soon \u22c5 10\u202fPM \u22c5 Opens 8\u202fAM Thu",
+            "operating_hours": {
+                "wednesday": "8\u202fAM\u201310\u202fPM",
+                "thursday": "8\u202fAM\u201310\u202fPM",
+                "friday": "8\u202fAM\u201310\u202fPM",
+                "saturday": "8\u202fAM\u201310\u202fPM",
+                "sunday": "8\u202fAM\u201310\u202fPM",
+                "monday": "8\u202fAM\u201310\u202fPM",
+                "tuesday": "8\u202fAM\u201310\u202fPM"
+            },
+            "phone": "(718) 734-2321",
+            "website": "https://www.wholefoodsmarket.com/stores/williamsburg?utm_source=google&utm_medium=organic&utm_campaign=listings",
+            "description": "Mainstay for natural & organic food. Eco-minded chain with natural & organic grocery items, housewares & other products (most sell wine).",
+            "service_options": {
+                "in_store_shopping": true,
+                "curbside_pickup": true,
+                "delivery": true
+            },
+            "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOmJ5lBJmskmjpcECXZEmIS57MfmZrLRrRV8Fu0=w122-h92-k-no"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&q=Grocery+Store&start=20&type=search"
+    }
+}
