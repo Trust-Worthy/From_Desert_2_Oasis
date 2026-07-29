@@ -1,3 +1,5 @@
+<img width="2378" height="1325" alt="image" src="https://github.com/user-attachments/assets/05fb5562-ad17-479b-8057-63c92925c89e" />
+
 
 # From Desert 2 Oasis
 
@@ -65,3 +67,5 @@ The output of **Project Radius** will be a data-driven map that identifies and f
 ---
 
 Let me know if you need any further changes!
+
+<img width="2284" height="1284" alt="Screenshot 2024-12-17 010547" src="https://github.com/user-attachments/assets/657aea78-a69f-4766-85b4-3cb67e7206e9" />
